@@ -1,0 +1,12 @@
+.col-md-3 { color: #337AB7; font-weight: 600; }
+
+@media only screen and (max-width: 990px) {
+    div { 
+        text-align: center;
+    }
+    #prodImg {
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+    }
+}

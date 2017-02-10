@@ -1,0 +1,45 @@
+body { 
+  background: url(./assets/images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+
+body { background-color: #ccc;}
+
+.head { 
+    text-align: center; 
+    background-color: #000; 
+    color: white; 
+    margin:0; 
+    padding: 4%;
+    text-shadow: #ccc;
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+
+.head > p {
+    border: 1px solid #FFF;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 1%;
+}
+
+.panel-body{ padding: 2%; }
+
+.panel-heading { font-size: 2em; padding: 1%; padding-left: 2%; }
+
+.panel-primary { margin-top: 1%;}
+
+div { border-radius: 0 !important; }
+

@@ -1,0 +1,13 @@
+.crop {
+    overflow: hidden;
+}
+div {
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 990px) {
+    div { 
+        margin: auto;
+    }
+}
+
